@@ -16,7 +16,7 @@ public class  FoodController {
     @GetMapping
     public void getAll(){
 
-        List<Food> foodList = repository
+
 
     }
 }
